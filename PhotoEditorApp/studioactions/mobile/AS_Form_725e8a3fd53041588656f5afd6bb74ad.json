@@ -1,0 +1,21 @@
+{
+    "AS_Form_725e8a3fd53041588656f5afd6bb74ad": {
+        "id": "AS_Form_725e8a3fd53041588656f5afd6bb74ad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCropPreview",
+            "type": "forms",
+            "KUID": "a331f79022e241d2bbcfe9dbb7fb979b"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_0fd155e220fe4888b672e62b3f787caa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nfilter2.clearFilterData();\nfilter3.clearFilterData();\nfilter4.clearFilterData();\nfilter5.clearFilterData();\nfilter6.clearFilterData();\nfrmeffectsIphone.destroy();",
+            "callbackType": null
+        }]
+    }
+}

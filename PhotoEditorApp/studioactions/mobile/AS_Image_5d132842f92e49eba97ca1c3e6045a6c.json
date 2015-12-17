@@ -1,0 +1,29 @@
+{
+    "AS_Image_5d132842f92e49eba97ca1c3e6045a6c": {
+        "id": "AS_Image_5d132842f92e49eba97ca1c3e6045a6c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPreview",
+            "type": "templates",
+            "platform": "",
+            "KUID": "3e45cb5c6e78480c83acc618cc31aabc"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__bd36b299ae124f54888db13d7e08e0d3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "undoImgProcess();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

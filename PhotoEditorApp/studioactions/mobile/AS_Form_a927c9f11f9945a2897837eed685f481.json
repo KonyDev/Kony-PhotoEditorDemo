@@ -1,0 +1,19 @@
+{
+    "AS_Form_a927c9f11f9945a2897837eed685f481": {
+        "id": "AS_Form_a927c9f11f9945a2897837eed685f481",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__9acb5333bdba4a5b902deeafa9bb09ea",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "retrieveQualityLevels();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

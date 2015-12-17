@@ -1,0 +1,20 @@
+{
+    "AS_Slider_b7970302798e414cb31951a64a486953": {
+        "id": "AS_Slider_b7970302798e414cb31951a64a486953",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": []
+    }
+}

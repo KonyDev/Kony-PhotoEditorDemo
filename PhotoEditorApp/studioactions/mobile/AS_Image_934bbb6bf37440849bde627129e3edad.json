@@ -1,0 +1,27 @@
+{
+    "AS_Image_934bbb6bf37440849bde627129e3edad": {
+        "id": "AS_Image_934bbb6bf37440849bde627129e3edad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmeffectsAndroid",
+            "type": "forms",
+            "KUID": "9e9953a764914e0bb21860153a53bf1d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_11812b6a4363493d98f1dbd5c3a2ec11",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applyFilterttoImageIphone(filter2);",
+            "callbackType": null
+        }]
+    }
+}

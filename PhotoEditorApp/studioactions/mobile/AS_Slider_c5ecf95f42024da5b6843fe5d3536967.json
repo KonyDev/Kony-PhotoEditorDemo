@@ -1,0 +1,26 @@
+{
+    "AS_Slider_c5ecf95f42024da5b6843fe5d3536967": {
+        "id": "AS_Slider_c5ecf95f42024da5b6843fe5d3536967",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmBrightnessIPhone",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3c5fc5efab8e4a589589899a788b3149"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d66cbe1ab46747a0bccbbd332d9b2a3f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setColorfunIphione();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

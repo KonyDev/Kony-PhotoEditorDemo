@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "48%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1565385cff54aeca36d97fb153483b1",
+    "_src_": "test6.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmtwoImagesAndroid",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "CopyImage08ded9ed1d84644",
+    "ide_onTouchEnd": "AS_Image_47bfe475bd4c41129c875e1642fb77e3",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "4562657baa5a401a8be09261a0b7cc9a",
+    "name": "kony.ui.Image2",
+    "parent": "FlexScrollContainer0552175c503e64c",
+    "pf": "frmtwoImagesAndroid",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

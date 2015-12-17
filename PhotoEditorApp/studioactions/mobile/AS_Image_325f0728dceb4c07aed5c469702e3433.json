@@ -1,0 +1,28 @@
+{
+    "AS_Image_325f0728dceb4c07aed5c469702e3433": {
+        "id": "AS_Image_325f0728dceb4c07aed5c469702e3433",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmblurAndroid",
+            "type": "forms",
+            "KUID": "421e80eda23744eda8e843993a89ce4f"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__3b630f18faf14dcab10b05b5c7c991fb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setBlurness(8);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

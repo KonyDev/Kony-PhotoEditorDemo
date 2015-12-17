@@ -1,0 +1,23 @@
+{
+    "AS_Button_150b54b05ffe46ff9ed7aa7e423554ce": {
+        "id": "AS_Button_150b54b05ffe46ff9ed7aa7e423554ce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOverlay",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet1379155974107"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__7ce9e93f9d8e495d855cdbcb85f0b3dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "takePictureAPI();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

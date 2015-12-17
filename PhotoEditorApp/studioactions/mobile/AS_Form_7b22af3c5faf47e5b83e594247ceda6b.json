@@ -1,0 +1,21 @@
+{
+    "AS_Form_7b22af3c5faf47e5b83e594247ceda6b": {
+        "id": "AS_Form_7b22af3c5faf47e5b83e594247ceda6b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCropPreview",
+            "type": "forms",
+            "KUID": "a331f79022e241d2bbcfe9dbb7fb979b"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_3f23ac23382b4be9aca8417937ddb781",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmblurAndroid.destroy();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 100,
+    "_min_": 0,
+    "_orientation_": "horizontal",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_skin_": "slSlider",
+    "_step_": 1,
+    "_text_": "Slider",
+    "_width_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "accessibilityconfig": {
+        "a11yHidden": false,
+        "a11yHint": "",
+        "a11yLabel": "",
+        "a11yValue": ""
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.AndroidSliderProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "slider195726331671443",
+    "ide_onSelection": "AS_Slider_38bba47a1c0f4672b52c7ab5bbd26cfd",
+    "imgwt": 99,
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.IPhoneSliderProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "9b22c472b8f94ed999d6dd30201770df",
+    "leftskin": "sa1a85a05bf741f18ca36a9c64f04787",
+    "margininpixel": false,
+    "name": "kony.ui.Slider",
+    "noofsteps": 100,
+    "osPlatform": "android",
+    "osVersion": "iOS7",
+    "paddinginpixel": false,
+    "parent": "FcDuration",
+    "pf": "frmVideo",
+    "rightskin": "s3edf2f33ceb4a51bf93cfaf15718135",
+    "selectedvalue": 0,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAAndroidSliderProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPABBSliderProperty",
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAIPhoneSliderProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAWinPhone8SliderProperty",
+        "render": true
+    },
+    "stepwidth": 4.95,
+    "vexpand": false,
+    "view": "default",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.WinPhone8SliderProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "zindex": 1
+}

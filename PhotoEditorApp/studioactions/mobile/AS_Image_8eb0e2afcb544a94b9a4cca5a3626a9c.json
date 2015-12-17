@@ -1,0 +1,29 @@
+{
+    "AS_Image_8eb0e2afcb544a94b9a4cca5a3626a9c": {
+        "id": "AS_Image_8eb0e2afcb544a94b9a4cca5a3626a9c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPreview",
+            "type": "templates",
+            "platform": "",
+            "KUID": "3e45cb5c6e78480c83acc618cc31aabc"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__7122929cf3ad423ebc01894fe24a3f65",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frm2.Flexscroll2.isVisible==false){\nfrm2.Flexscroll2.isVisible=true;\n}else{\nfrm2.Flexscroll2.isVisible=false;\n}\nfrm2.Flexscroll2.forceLayout();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

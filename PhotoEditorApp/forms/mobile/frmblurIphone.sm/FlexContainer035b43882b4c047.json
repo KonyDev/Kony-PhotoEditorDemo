@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s90f9d3567ec49379066c229650fed18",
+    "_top_": {
+        "type": "string",
+        "value": "81%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Img1",
+        "Label1",
+        "Img3",
+        "img4",
+        "CopyLabel09aa53134e61343",
+        "CopyLabel05fe846364e4045"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer035b43882b4c047",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e9ea1100c3dd41b4b739d1d02db43ff8",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmblurIphone",
+    "pf": "frmblurIphone",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

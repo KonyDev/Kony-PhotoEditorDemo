@@ -1,0 +1,24 @@
+{
+  "android": {
+    "background_image": "switchcamera.png",
+    "bg_type": "image"
+  },
+  "background_image": "switchcamera.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "background_image": "switchcamera.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kuid": "sd8d30bf084240978f7cf8d1cabc1c43",
+  "wType": "Camera"
+}

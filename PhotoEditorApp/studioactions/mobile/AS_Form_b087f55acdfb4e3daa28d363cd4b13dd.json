@@ -1,0 +1,19 @@
+{
+    "AS_Form_b087f55acdfb4e3daa28d363cd4b13dd": {
+        "id": "AS_Form_b087f55acdfb4e3daa28d363cd4b13dd",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "frmOverlay",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet1379155974107"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__994abd53241e4ce58cd5b95e36476e97",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmOverlay.FrontCamera.cameraOptions={hideControlBar:true};\nfrmOverlay1.RearCamera.cameraOptions={hideControlBar:true};",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

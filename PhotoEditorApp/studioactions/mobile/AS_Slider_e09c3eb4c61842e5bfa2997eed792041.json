@@ -1,0 +1,19 @@
+{
+    "AS_Slider_e09c3eb4c61842e5bfa2997eed792041": {
+        "id": "AS_Slider_e09c3eb4c61842e5bfa2997eed792041",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmCropPreview",
+            "type": "forms",
+            "KUID": "a331f79022e241d2bbcfe9dbb7fb979b"
+        },
+        "actions": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "android": {
+    "background_image": "images34.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "background_color": "7e7e7e",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "iphone": {
+    "background_image": "images34.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s377d8dceda546d98a865ea1e47de843",
+  "wType": "Form"
+}

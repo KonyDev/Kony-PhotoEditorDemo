@@ -1,0 +1,29 @@
+{
+    "AS_Image_2ba772f530824081b6528422cd79cdef": {
+        "id": "AS_Image_2ba772f530824081b6528422cd79cdef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmtwoImagesAndroid",
+            "type": "forms",
+            "platform": null,
+            "KUID": "5ddb5177c1fe43dc9fc2154436448882"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__b26a069018294cdb9394410795c262fe",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setCompositionEditor(kony.filter.SOURCE_ATOP_COMPOSITING);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

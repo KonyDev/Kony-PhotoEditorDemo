@@ -1,0 +1,28 @@
+{
+    "AS_Image_f9f285f2e6f641e593b3696b37bd1ffc": {
+        "id": "AS_Image_f9f285f2e6f641e593b3696b37bd1ffc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPreview",
+            "type": "templates",
+            "platform": "",
+            "KUID": "3e45cb5c6e78480c83acc618cc31aabc"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_eff28372878b4a81836a8d88022c0a02",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frm2.Flexscroll2.isVisible==false){\nfrm2.Flexscroll2.isVisible=true;\n}else{\nfrm2.Flexscroll2.isVisible=false;\n}\nfrm2.Flexscroll2.forceLayout();",
+            "callbackType": null
+        }]
+    }
+}
