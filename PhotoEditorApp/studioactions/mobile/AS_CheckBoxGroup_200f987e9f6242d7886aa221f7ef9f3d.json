@@ -1,0 +1,22 @@
+{
+    "AS_CheckBoxGroup_200f987e9f6242d7886aa221f7ef9f3d": {
+        "id": "AS_CheckBoxGroup_200f987e9f6242d7886aa221f7ef9f3d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_14e96d5a27414e06967f51ed0a25599d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setVideoStabilization();",
+            "callbackType": null
+        }]
+    }
+}

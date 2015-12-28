@@ -41,6 +41,11 @@
     "id": "Scale",
     "ide_onClick": "AS_Button_b46c0c7da77144f2ac7a49aeedade6d1",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
     "isSegmentChild": false,
     "isvisible": true,
     "kuid": "487eabccb247422a8c11e2e2372163b3",

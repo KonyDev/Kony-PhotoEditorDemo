@@ -41,6 +41,11 @@
     "id": "moreeffectsID",
     "ide_onClick": "AS_Button_54c903cffce7404e885c9c8cb4b0b773",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
     "isSegmentChild": false,
     "isvisible": true,
     "kuid": "903d4cde4a8640c5acbec029f581da8d",

@@ -30,7 +30,7 @@
     "_text_": "Slider",
     "_width_": {
         "type": "string",
-        "value": "55%"
+        "value": "40%"
     },
     "accessibilityconfig": {
         "a11yHidden": false,
@@ -81,7 +81,7 @@
     "margininpixel": false,
     "name": "kony.ui.Slider",
     "noofsteps": 100,
-    "osPlatform": "android",
+    "osPlatform": "iphone",
     "osVersion": "iOS7",
     "paddinginpixel": false,
     "parent": "FcDuration",
@@ -107,7 +107,7 @@
         "@class": "com.kony.gen.viz.model.component.property.slider.SPAWinPhone8SliderProperty",
         "render": true
     },
-    "stepwidth": 4.95,
+    "stepwidth": 0,
     "vexpand": false,
     "view": "default",
     "wType": "Slider",

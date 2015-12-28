@@ -81,6 +81,9 @@
         "_render_": true,
         "render": true
     },
+    "vizProps": {
+        "hide": true
+    },
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "winphone8": {

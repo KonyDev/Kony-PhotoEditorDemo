@@ -41,6 +41,11 @@
     "id": "Button0692b2239355a41",
     "ide_onClick": "AS_Button_2c286f4c8f184a4a95f8f626dc90e0a6",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
     "isSegmentChild": false,
     "isvisible": true,
     "kuid": "a12c27e733524389a784c90186c103bb",

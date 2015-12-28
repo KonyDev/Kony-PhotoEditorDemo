@@ -41,6 +41,11 @@
     "id": "Copyblur00745c7fa47a640",
     "ide_onClick": "AS_Button_eba6815df3f74467b8d6be419eed8bc0",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
     "isSegmentChild": false,
     "isvisible": true,
     "kuid": "7b468c7582064a278981f445236677e1",

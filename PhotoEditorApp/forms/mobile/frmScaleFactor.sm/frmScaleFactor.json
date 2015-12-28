@@ -207,11 +207,12 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "GalaxyS5",
+    "device": "iPhone6",
     "displayorientation": 1,
     "enabled": false,
     "enabledforidletimeout": false,
     "header": "frmScaleFactor_header",
+    "headeroverlap": false,
     "headersId": "667000dc7b35444caf95ef3347ea2228",
     "id": "frmScaleFactor",
     "ide_onHide": "AS_Form_4df75e33c0e8462c93603bd0fde98b65",
@@ -255,6 +256,7 @@
         }
     },
     "iphone": {
+        "headerOverlap": true,
         "needAppMenu": false,
         "psp": {
             "inputAccessoryViewType": 4,
@@ -282,11 +284,11 @@
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
-    "platform": "android",
-    "prevDevice": "iPhone6",
-    "prevPlatform": "iphone",
+    "platform": "iphone",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
     "retainscrollposition": false,
-    "shellCSS": "and_GalaxyS5",
+    "shellCSS": "iOS_iPhone6",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {
@@ -302,7 +304,7 @@
         "needAppMenu": true
     },
     "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
-    "titlebar": true,
+    "titlebar": false,
     "type": 3,
     "wType": "Form",
     "winphone8": {

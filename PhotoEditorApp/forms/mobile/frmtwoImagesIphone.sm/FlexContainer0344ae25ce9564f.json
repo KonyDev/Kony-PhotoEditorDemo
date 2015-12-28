@@ -37,7 +37,8 @@
     "canUpdateUI": true,
     "children": [
         "Label025c2f675fd1a47",
-        "Button0eb92b74f4c1848"
+        "Button0eb92b74f4c1848",
+        "Image032827b42cf4e40"
     ],
     "clipbounds": true,
     "containerweight": 100,

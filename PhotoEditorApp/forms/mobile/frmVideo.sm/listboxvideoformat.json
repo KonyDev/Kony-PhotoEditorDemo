@@ -2,12 +2,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "string",
-        "value": "12%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "38%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_margin_": [
         0,
@@ -22,6 +18,10 @@
         0
     ],
     "_placeholder_": "Select",
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
     "_skin_": "se8b6adeabe149cd938666f7585e0ffb",
     "_text_": "",
     "_top_": {
@@ -48,20 +48,24 @@
         "viewType": 0
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "channel": "mobile",
     "containerweight": 100,
     "contentalignment": 4,
     "context": {
         "channel": "mobile",
         "formID": "frmVideo",
-        "platform": "android",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
     "enabled": false,
     "hexpand": true,
     "id": "listboxvideoformat",
-    "ide_onSelection": "AS_ListBox_91bc0b9e360c4ad280017ca3b642a091",
+    "ide_onSelection": "AS_ListBox_779fa1743b744b96a0e0072bbdfe9d35",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.listbox.IPhoneListBoxProperty",
@@ -85,7 +89,7 @@
         "viewType": 0
     },
     "isvisible": true,
-    "kuid": "p2kwiet126858492922506",
+    "kuid": "f3fdc7aa0cea407d9c2523ef36a36fbb",
     "margininpixel": false,
     "masterdata": [
         [
@@ -99,7 +103,7 @@
     ],
     "name": "kony.ui.ListBox",
     "paddinginpixel": false,
-    "parent": "frmVideo",
+    "parent": "FCformat",
     "pf": "frmVideo",
     "selectedkey": "1",
     "selectedkeyvalue": [

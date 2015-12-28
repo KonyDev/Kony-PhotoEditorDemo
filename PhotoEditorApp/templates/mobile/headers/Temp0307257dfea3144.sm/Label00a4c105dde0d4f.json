@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "103dp"
-    },
     "_margin_": [
         1,
         1,
@@ -22,12 +18,8 @@
         0,
         0
     ],
-    "_skin_": "sdef31a0c016484e83b9d767ce2d7f44",
+    "_skin_": "s720b829c50944579188b508e5f78fb6",
     "_text_": "Adjust",
-    "_top_": {
-        "type": "string",
-        "value": "1dp"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -40,6 +32,14 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,

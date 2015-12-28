@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "12%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -25,11 +25,11 @@
     "_text_": "Video Format",
     "_top_": {
         "type": "string",
-        "value": "14.78%"
+        "value": "0%"
     },
     "_width_": {
-        "type": "string",
-        "value": "30%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "accessibilityconfig": {
@@ -76,11 +76,11 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet126858492922505",
+    "kuid": "2ca2e4e7399441678accbe12d36cdd43",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,
-    "parent": "frmVideo",
+    "parent": "FCformat",
     "pf": "frmVideo",
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",

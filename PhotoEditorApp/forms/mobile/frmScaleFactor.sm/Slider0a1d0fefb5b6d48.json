@@ -28,7 +28,7 @@
     "_thickness_": "15",
     "_top_": {
         "type": "string",
-        "value": "89%"
+        "value": "88.97%"
     },
     "_width_": {
         "type": "string",
@@ -62,14 +62,14 @@
             "enableThumbTintColor": true,
             "thumbTintColor": "ffffff00"
         },
-        "thumbImage": "aviary_seekbar_thumb_zero_pressed.png"
+        "thumbImage": "slider_ios7.png"
     },
     "isvisible": true,
     "kuid": "4f85da09ae914e6b9836c2d426fc8abd",
     "leftskin": "sbc10a8312694bd58e43b75e7d491be3",
     "name": "kony.ui.Slider",
     "noofsteps": 9,
-    "osPlatform": "android",
+    "osPlatform": "iphone",
     "osVersion": "iOS7",
     "parent": "frmScaleFactor",
     "pf": "frmScaleFactor",

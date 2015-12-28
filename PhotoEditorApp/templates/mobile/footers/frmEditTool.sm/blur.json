@@ -41,6 +41,11 @@
     "id": "blur",
     "ide_onClick": "AS_Button_760babb830f3478da68c9264da25f007",
     "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
     "isSegmentChild": false,
     "isvisible": true,
     "kuid": "74c4a164349d4e1fa703aa2b6e990de9",
