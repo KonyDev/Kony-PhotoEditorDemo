@@ -11,3 +11,5 @@ Application to showcases the photo editing  feature of Kony Studio.
 **Mobile**
  * android
  * iPhone
+
+**Supported KonyStudio Version:** 7.0
