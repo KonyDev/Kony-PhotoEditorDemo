@@ -1,5 +1,5 @@
 # Kony-PhotoEditorDemo
-Application to showcases the photo editing  feature of Kony Studio.
+Application to showcase the image manipulation APIs of Kony 7.0.
 
 # To run this app
 
