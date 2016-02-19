@@ -1,5 +1,5 @@
 # Kony-PhotoEditorDemo
-Application to showcase the image manipulation APIs of Kony 7.0.
+Application to showcase the image manipulation APIs of Kony Visualizer.
 
 # To run this app
 
@@ -12,4 +12,4 @@ Application to showcase the image manipulation APIs of Kony 7.0.
  * android
  * iPhone
 
-**Supported KonyStudio Version:** 7.0
+**Supported Kony Visualizer Version:** 7.0
