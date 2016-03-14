@@ -12,4 +12,4 @@ Application to showcase the image manipulation APIs of Kony Visualizer.
  * android
  * iPhone
 
-**Supported Kony Visualizer Version:** 7.0
+**Supported Kony Visualizer Enterprise Version:** 7.0
