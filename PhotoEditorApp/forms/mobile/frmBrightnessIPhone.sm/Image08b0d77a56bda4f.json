@@ -43,7 +43,7 @@
         "topLevelBox": null
     },
     "id": "Image08b0d77a56bda4f",
-    "ide_onTouchEnd": "AS_Image_15fb3815283b47b69f76ee27a63e6efa",
+    "ontouchend": "AS_Image_15fb3815283b47b69f76ee27a63e6efa",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",

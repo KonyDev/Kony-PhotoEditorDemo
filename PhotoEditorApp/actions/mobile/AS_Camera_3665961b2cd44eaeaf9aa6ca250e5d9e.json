@@ -1,0 +1,27 @@
+{
+    "AS_Camera_3665961b2cd44eaeaf9aa6ca250e5d9e": {
+        "id": "AS_Camera_3665961b2cd44eaeaf9aa6ca250e5d9e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOverlay",
+            "type": "forms",
+            "KUID": "p2kwiet1379155974107"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d521e5eec1fc4028824b4a61cf76b44c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setCamerRawBytes",
+            "display": "setCamerRawBytes",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

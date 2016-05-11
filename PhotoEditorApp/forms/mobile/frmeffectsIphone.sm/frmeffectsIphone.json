@@ -214,7 +214,7 @@
     "header": "frmeffectsIphone_header",
     "headersId": "667000dc7b35444caf95ef3347ea2228",
     "id": "frmeffectsIphone",
-    "ide_onHide": "AS_Form_725e8a3fd53041588656f5afd6bb74ad",
+    "onhide": "AS_Form_725e8a3fd53041588656f5afd6bb74ad",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {

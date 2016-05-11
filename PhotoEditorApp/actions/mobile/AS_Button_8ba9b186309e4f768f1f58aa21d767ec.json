@@ -1,0 +1,21 @@
+{
+    "AS_Button_8ba9b186309e4f768f1f58aa21d767ec": {
+        "id": "AS_Button_8ba9b186309e4f768f1f58aa21d767ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCroptemp",
+            "type": "templates",
+            "KUID": "667000dc7b35444caf95ef3347ea2228"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ba3b6a64049f4765b1ecefbeb894881f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applyCropImage();",
+            "callbackType": null
+        }]
+    }
+}

@@ -47,7 +47,7 @@
         }
     },
     "id": "Slider0a1d0fefb5b6d48",
-    "ide_onSelection": "AS_Slider_dd48113cb9314fefa1c80befd9f92b76",
+    "onselection": "AS_Slider_dd48113cb9314fefa1c80befd9f92b76",
     "imgwt": 40,
     "info": null,
     "ipad": {

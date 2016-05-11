@@ -1,0 +1,25 @@
+{
+    "AS_Slider_be3322f157fd4f439dfc9b0bfe4d697b": {
+        "id": "AS_Slider_be3322f157fd4f439dfc9b0bfe4d697b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmblurIphone",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4d1a6ee5c62141bebcd59c65f399d1b7"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSlide_3d7a0beeeb92473b9976b9e1731a6292",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setBlurnessIphone();",
+            "callbackType": null
+        }]
+    }
+}

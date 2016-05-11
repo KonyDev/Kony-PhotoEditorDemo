@@ -1,0 +1,24 @@
+{
+    "AS_Slider_66ddd4fc3ae74be992ccd27b2f595873": {
+        "id": "AS_Slider_66ddd4fc3ae74be992ccd27b2f595873",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmCropPreview",
+            "type": "forms",
+            "KUID": "a331f79022e241d2bbcfe9dbb7fb979b"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_14f222b052dd4dd2a97d5ecfb9c7e031",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onCropSlideFunc()",
+            "callbackType": null
+        }]
+    }
+}

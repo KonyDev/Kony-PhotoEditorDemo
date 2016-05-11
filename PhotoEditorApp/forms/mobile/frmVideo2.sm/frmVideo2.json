@@ -73,7 +73,7 @@
     "headeroverlap": false,
     "horizontalscrollindicator": true,
     "id": "frmVideo2",
-    "ide_onHide": "AS_Form_c0b449e91a544218a3f4c0262da249d3",
+    "onhide": "AS_Form_c0b449e91a544218a3f4c0262da249d3",
     "iphone": {
         "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPhoneScrollFlexFormProperty",
         "displayOrientation": 1,

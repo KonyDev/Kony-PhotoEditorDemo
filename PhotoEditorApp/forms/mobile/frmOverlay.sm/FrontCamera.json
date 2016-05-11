@@ -68,7 +68,7 @@
     "focusskin": "s1bd047b31be4580a15ca302615eb35b",
     "hexpand": true,
     "id": "FrontCamera",
-    "ide_onCapture": "AS_Camera_3665961b2cd44eaeaf9aa6ca250e5d9e",
+    "oncapture": "AS_Camera_3665961b2cd44eaeaf9aa6ca250e5d9e",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.camera.IPhoneCameraProperty",

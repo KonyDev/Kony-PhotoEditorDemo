@@ -1,0 +1,29 @@
+{
+    "AS_Image_b53758e8970244b493291ac8f48e2a99": {
+        "id": "AS_Image_b53758e8970244b493291ac8f48e2a99",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__977dc7cb2e9843d7a84f43daa4961609",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmHome.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

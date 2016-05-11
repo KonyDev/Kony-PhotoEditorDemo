@@ -1,0 +1,23 @@
+{
+    "AS_ListBox_91bc0b9e360c4ad280017ca3b642a091": {
+        "id": "AS_ListBox_91bc0b9e360c4ad280017ca3b642a091",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__421821c8742e494185d712291b92adcd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "camera_videoFormatProperty();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

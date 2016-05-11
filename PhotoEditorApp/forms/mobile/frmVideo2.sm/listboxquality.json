@@ -61,7 +61,7 @@
     "enabled": false,
     "hexpand": true,
     "id": "listboxquality",
-    "ide_onSelection": "AS_ListBox_f6591537387a4c18a741157756a487d9",
+    "onselection": "AS_ListBox_f6591537387a4c18a741157756a487d9",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.listbox.IPhoneListBoxProperty",

@@ -52,7 +52,7 @@
     "contentalignment": 5,
     "hexpand": true,
     "id": "slider195726331671443",
-    "ide_onSelection": "AS_Slider_38bba47a1c0f4672b52c7ab5bbd26cfd",
+    "onselection": "AS_Slider_38bba47a1c0f4672b52c7ab5bbd26cfd",
     "imgwt": 99,
     "info": null,
     "iphone": {

@@ -1,0 +1,26 @@
+{
+    "AS_Slider_6de7ba8bd45a435d8e9e0a66d53288ac": {
+        "id": "AS_Slider_6de7ba8bd45a435d8e9e0a66d53288ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__4df11bc7c1e54156a955de269de2aadf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setVideoDuration();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

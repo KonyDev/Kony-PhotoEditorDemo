@@ -38,7 +38,7 @@
     "displaytext": true,
     "focusskin": "s26bdf3bcfee4930a21fed04b784535e",
     "id": "Button0eb92b74f4c1848",
-    "ide_onTouchEnd": "AS_Button_f6f588a0e63247fd87c48b27a882e391",
+    "ontouchend": "AS_Button_f6f588a0e63247fd87c48b27a882e391",
     "info": null,
     "isvisible": true,
     "kuid": "9f94de20d3e3493a8f66cc6201cb9c0d",

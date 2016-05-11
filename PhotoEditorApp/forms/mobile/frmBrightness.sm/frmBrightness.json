@@ -214,7 +214,7 @@
     "header": "frmBrightness_header",
     "headersId": "667000dc7b35444caf95ef3347ea2228",
     "id": "frmBrightness",
-    "ide_onHide": "AS_Form_e64fa807a552494ab64a0d028944c2ef",
+    "onhide": "AS_Form_e64fa807a552494ab64a0d028944c2ef",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {

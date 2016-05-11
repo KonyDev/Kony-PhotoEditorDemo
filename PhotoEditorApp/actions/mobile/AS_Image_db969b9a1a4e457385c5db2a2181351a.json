@@ -1,0 +1,34 @@
+{
+    "AS_Image_db969b9a1a4e457385c5db2a2181351a": {
+        "id": "AS_Image_db969b9a1a4e457385c5db2a2181351a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmeffectsAndroid",
+            "type": "forms",
+            "KUID": "9e9953a764914e0bb21860153a53bf1d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__92e42c89d1b2420184c8f2c022e8b3eb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setColorInversionAndroid();",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET__fe6fa13b1c9048fbbcf8e2310b55ae29",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applyFilterttoImage(filter3);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

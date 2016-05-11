@@ -63,7 +63,7 @@
     "enableoverlay": true,
     "hexpand": true,
     "id": "camerawidget",
-    "ide_onCapture": "AS_Camera_3668edfbe24c42b885934ba426afc2d2",
+    "oncapture": "AS_Camera_3668edfbe24c42b885934ba426afc2d2",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.camera.IPhoneCameraProperty",

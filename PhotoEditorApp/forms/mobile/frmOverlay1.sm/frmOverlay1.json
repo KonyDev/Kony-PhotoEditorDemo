@@ -62,7 +62,7 @@
     "headeroverlap": false,
     "horizontalscrollindicator": true,
     "id": "frmOverlay1",
-    "ide_postShow": "AS_Form_961bb0024bad4e0bac5b317a40b6dec2",
+    "preshow": "AS_Form_961bb0024bad4e0bac5b317a40b6dec2",
     "iphone": {
         "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPhoneScrollFlexFormProperty",
         "displayOrientation": 3,

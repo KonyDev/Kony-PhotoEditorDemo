@@ -65,7 +65,7 @@
     "enabled": false,
     "hexpand": true,
     "id": "listboxvideoformat",
-    "ide_onSelection": "AS_ListBox_779fa1743b744b96a0e0072bbdfe9d35",
+    "onselection": "AS_ListBox_779fa1743b744b96a0e0072bbdfe9d35",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.listbox.IPhoneListBoxProperty",

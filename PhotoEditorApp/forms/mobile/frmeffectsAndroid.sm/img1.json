@@ -44,7 +44,7 @@
     },
     "enabled": false,
     "id": "img1",
-    "ide_onTouchEnd": "AS_Image_d77fd712902d40e4b536f191b959cd72",
+    "ontouchend": "AS_Image_d77fd712902d40e4b536f191b959cd72",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",

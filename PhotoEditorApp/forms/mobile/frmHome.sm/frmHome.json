@@ -40,7 +40,7 @@
     "enabled": false,
     "enabledforidletimeout": false,
     "id": "frmHome",
-    "ide_postShow": "AS_Form_b6830240c51945968d1fd15649e614ca",
+    "preshow": "AS_Form_b6830240c51945968d1fd15649e614ca",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {

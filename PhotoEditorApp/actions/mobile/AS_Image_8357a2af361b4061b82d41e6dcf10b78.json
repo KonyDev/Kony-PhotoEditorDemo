@@ -1,0 +1,28 @@
+{
+    "AS_Image_8357a2af361b4061b82d41e6dcf10b78": {
+        "id": "AS_Image_8357a2af361b4061b82d41e6dcf10b78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmtwoImagesAndroid",
+            "type": "forms",
+            "platform": null,
+            "KUID": "5ddb5177c1fe43dc9fc2154436448882"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_2c52fc508a48493ba3ce812e4f55c847",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setCompositionEditor(kony.filter.MULTIPLY_COMPOSITING);",
+            "callbackType": null
+        }]
+    }
+}

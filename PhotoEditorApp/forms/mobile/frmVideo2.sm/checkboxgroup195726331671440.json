@@ -55,7 +55,7 @@
     },
     "enabled": false,
     "id": "checkboxgroup195726331671440",
-    "ide_onSelection": "AS_CheckBoxGroup_03e382e612814db281ee01596b8b9670",
+    "onselection": "AS_CheckBoxGroup_03e382e612814db281ee01596b8b9670",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.checkbox.IPhoneCheckBoxProperty",

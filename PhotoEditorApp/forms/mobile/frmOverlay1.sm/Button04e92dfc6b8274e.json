@@ -46,7 +46,7 @@
     "displaytext": true,
     "focusskin": "s26bdf3bcfee4930a21fed04b784535e",
     "id": "Button04e92dfc6b8274e",
-    "ide_onClick": "AS_Button_e4654a7321914ed48822d220cd74ca66",
+    "onclick": "AS_Button_e4654a7321914ed48822d220cd74ca66",
     "info": null,
     "isvisible": true,
     "kuid": "ad4508e068c14c5f9e486c36e9cc26d1",

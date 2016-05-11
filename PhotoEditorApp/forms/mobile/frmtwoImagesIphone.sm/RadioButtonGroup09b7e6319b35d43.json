@@ -44,7 +44,7 @@
     "containerweight": 100,
     "groupcells": false,
     "id": "RadioButtonGroup09b7e6319b35d43",
-    "ide_onSelection": "AS_RadioButtonGroup_525e6a1c4fa6400a9ad038ebb8d2ebe2",
+    "onselection": "AS_RadioButtonGroup_525e6a1c4fa6400a9ad038ebb8d2ebe2",
     "info": null,
     "ipad": {
         "psp": {

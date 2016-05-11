@@ -215,7 +215,7 @@
     "header": "frmeffectsAndroid_header",
     "headersId": "667000dc7b35444caf95ef3347ea2228",
     "id": "frmeffectsAndroid",
-    "ide_onHide": "AS_Form_5932fcd389ca499183f17a09f3f07e6a",
+    "onhide": "AS_Form_5932fcd389ca499183f17a09f3f07e6a",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {

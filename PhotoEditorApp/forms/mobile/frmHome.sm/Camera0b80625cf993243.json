@@ -63,7 +63,7 @@
     "enabled": false,
     "enableoverlay": false,
     "id": "Camera0b80625cf993243",
-    "ide_onCapture": "AS_Camera_b66a59d6e3a34d36b0d56850501d3551",
+    "oncapture": "AS_Camera_b66a59d6e3a34d36b0d56850501d3551",
     "info": null,
     "iphone": {
         "enableOverlay": true,

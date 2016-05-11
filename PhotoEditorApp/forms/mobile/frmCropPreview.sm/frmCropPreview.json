@@ -215,7 +215,7 @@
     "headeroverlap": true,
     "headersId": "667000dc7b35444caf95ef3347ea2228",
     "id": "frmCropPreview",
-    "ide_onHide": "AS_Form_789203879bd443c99cddec2e6514f5dd",
+    "onhide": "AS_Form_789203879bd443c99cddec2e6514f5dd",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {

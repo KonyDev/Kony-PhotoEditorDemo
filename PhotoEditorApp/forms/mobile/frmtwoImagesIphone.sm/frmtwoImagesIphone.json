@@ -40,7 +40,7 @@
     "enabledforidletimeout": false,
     "header": "frmtwoImagesIphone_header",
     "id": "frmtwoImagesIphone",
-    "ide_onHide": "AS_Form_09ca349dc29c4070a6c661de19f9f244",
+    "onhide": "AS_Form_09ca349dc29c4070a6c661de19f9f244",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 3,

@@ -61,7 +61,7 @@
     "enabled": false,
     "hexpand": true,
     "id": "listboxflash",
-    "ide_onSelection": "AS_ListBox_a015a244743e4996aee3d2fe51141420",
+    "onselection": "AS_ListBox_a015a244743e4996aee3d2fe51141420",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.listbox.IPhoneListBoxProperty",

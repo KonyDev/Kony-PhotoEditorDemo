@@ -1,0 +1,22 @@
+{
+    "AS_Button_94f6e78a17464e39848479e5d9c96a7c": {
+        "id": "AS_Button_94f6e78a17464e39848479e5d9c96a7c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmblurIphone",
+            "type": "forms",
+            "KUID": "4d1a6ee5c62141bebcd59c65f399d1b7"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__f90f8e4001cf4a39a1e9a16abfeea2eb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setBlurnessIphone(kony.filter.DiSC_BLUR);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
