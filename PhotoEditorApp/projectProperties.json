@@ -18,14 +18,15 @@
     "isA11yConfigEnabled": true,
     "wap_android480_fontsize": "12",
     "wap_spawindowstab_fontsize": "12",
-    "wap_winphone320_fontsize": "12",
     "defaulttheme": "defaultTheme",
+    "wap_winphone320_fontsize": "12",
     "watchos_longlooknotificationicon_38": "",
     "watchos_notificationcentericon_42": "",
     "enableactionbar": false,
     "wap_android360_fontsize": "12",
     "appmenu": {
         "focusSkin": null,
+        "osVersion": "iOS7",
         "tablet": {
             "data": [
                 {
@@ -62,7 +63,6 @@
                 }
             ]
         },
-        "osVersion": "iOS7",
         "wType": "Appmenu",
         "focusskin": null,
         "osPlatform": "",
@@ -160,24 +160,24 @@
     "tabletstartupformkey": "",
     "watchos_shortlooknotificationicon_38": "",
     "watchos_homescreenicon": "",
+    "watchos_shortlooknotificationicon": "",
     "appidkey": "PhotoEditorApp",
     "currentgaversion": "6.9.0",
-    "watchos_shortlooknotificationicon": "",
-    "watchos_notificationcentericon": "",
     "mwhttpsportkey": "",
+    "watchos_notificationcentericon": "",
     "vendornamekey": "KonyLabs",
     "konyVizVersion": "2.9.0",
     "appnamekey": "PhotoEditorApp",
     "APPLICATION_THEME": "default",
-    "wap_android440_fontsize": "12",
     "wap_spaipad_fontsize": "12",
+    "wap_android440_fontsize": "12",
     "wap_spaandroidtabhdpi_fontsize": "12",
     "nativeContainerProperties": {
         "isModified": false,
-        "isEnableJSContaineriOS": false,
+        "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
-        "isEnableJSContainer": false
+        "isEnableJSContaineriOS": false
     },
     "wap_bb360_fontsize": "12",
-    "export.type": "visualizer"
+	"export.type": "visualizer"
 }
