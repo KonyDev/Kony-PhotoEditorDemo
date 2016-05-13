@@ -178,5 +178,6 @@
         "isEnableJSContainerAndroid": false,
         "isEnableJSContainer": false
     },
-    "wap_bb360_fontsize": "12"
+    "wap_bb360_fontsize": "12",
+    "export.type": "visualizer"
 }
