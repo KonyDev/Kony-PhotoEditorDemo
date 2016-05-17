@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSlider",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 50,
+    "_min_": 5,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_step_": 5,
+    "_thickness_": "15",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "android": {
+        "thickness": "1",
+        "thumbImage": "slider_android.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "orientation": "horizontal",
+            "viewType": "default"
+        }
+    },
+    "id": "Slider00e30a845fa1d40",
+    "ide_onSlide": "AS_Slider_ed59dac54e3a4e739fe8c07d8b542fd2",
+    "imgwt": 99,
+    "info": null,
+    "ipad": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iphone": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "aviary_seekbar_thumb_zero_pressed.png"
+    },
+    "isvisible": true,
+    "kuid": "3b9ef7a477a4478a9afec0ab778b5894",
+    "leftskin": "s10239c715ce48319f9080f974766f08",
+    "name": "kony.ui.Slider",
+    "noofsteps": 9,
+    "osPlatform": "android",
+    "osVersion": "iOS7",
+    "parent": "FlexScrollContainer0bca70123445b43",
+    "pf": "frmblurAndroid",
+    "rightskin": "s33a9222223b4cf186155a5209c8bc32",
+    "selectedvalue": 15,
+    "stepwidth": 117.55555555555556,
+    "thumbimage": "aviary_seekbar_thumb_zero_pressed.png",
+    "wType": "Slider",
+    "widgetalignment": 5
+}

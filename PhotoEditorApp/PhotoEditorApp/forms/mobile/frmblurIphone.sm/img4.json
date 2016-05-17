@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1565385cff54aeca36d97fb153483b1",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmblurIphone",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "img4",
+    "ide_onTouchEnd": "AS_Image_463bbe221f6b4a979cebbb6e462e74f0",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "d8cb6f6988424fef84c72d022ea6e831",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer035b43882b4c047",
+    "pf": "frmblurIphone",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}
