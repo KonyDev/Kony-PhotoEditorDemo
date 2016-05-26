@@ -1,0 +1,29 @@
+{
+    "AS_Button_d8fd4bd60ae84e1c89279968333bf57c": {
+        "id": "AS_Button_d8fd4bd60ae84e1c89279968333bf57c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmtwoImagesAndroid",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5ddb5177c1fe43dc9fc2154436448882"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__927232dfa6874d969f6e81964b3eca1b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applyCropImage();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

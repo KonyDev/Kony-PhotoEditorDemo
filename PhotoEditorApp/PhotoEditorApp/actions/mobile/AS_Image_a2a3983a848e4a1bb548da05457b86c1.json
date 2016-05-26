@@ -1,0 +1,29 @@
+{
+    "AS_Image_a2a3983a848e4a1bb548da05457b86c1": {
+        "id": "AS_Image_a2a3983a848e4a1bb548da05457b86c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5d8e18160e3042f9b64d82a3dc179a49"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__78bfc23bad9e427384eda7208e136026",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frmHome.flextemp1.isVisible==false){\nfrmHome.flextemp1.isVisible=true;\n}else{\n frmHome.flextemp1.isVisible=false;\n}\nfrmHome.forceLayout();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

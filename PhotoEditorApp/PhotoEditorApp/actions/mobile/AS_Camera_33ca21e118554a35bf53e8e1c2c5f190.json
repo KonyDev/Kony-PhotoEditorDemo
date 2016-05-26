@@ -1,0 +1,25 @@
+{
+    "AS_Camera_33ca21e118554a35bf53e8e1c2c5f190": {
+        "id": "AS_Camera_33ca21e118554a35bf53e8e1c2c5f190",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9eb2e83158e843889a8c65144123cbe5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openGalleryVideo",
+            "display": "openGalleryVideo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

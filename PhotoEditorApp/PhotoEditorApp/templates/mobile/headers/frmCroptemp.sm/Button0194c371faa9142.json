@@ -41,10 +41,10 @@
     "id": "Button0194c371faa9142",
     "ide_onClick": "AS_Button_2b9d801a9c4c466397c1901282432c65",
     "info": null,
-    "isSegmentChild": false,
     "isvisible": true,
     "kuid": "46ee7e5b06d6465db6cebcf07450b2df",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_c7314dc5863b4fb2a9e2859d81a3fcf3",
     "parent": "FlexContainer0587f683a8a6e4e",
     "pf": "frmCroptemp",
     "wType": "Button"

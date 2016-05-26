@@ -342,6 +342,7 @@
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
+    "onhide": "AS_Form_13f93673ef274eab871e6a14ec25e45a",
     "paddinginpixel": false,
     "platform": "iphone",
     "prevDevice": "GalaxyS5",

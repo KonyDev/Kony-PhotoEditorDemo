@@ -83,6 +83,7 @@
         ]
     ],
     "name": "kony.ui.RadioButtonGroup",
+    "onselection": "AS_RadioButtonGroup_682f470507c84b6a8f4ef33b32ef3110",
     "parent": "frmtwoImagesIphone",
     "pf": "frmtwoImagesIphone",
     "placeholder": "Please a fliter",

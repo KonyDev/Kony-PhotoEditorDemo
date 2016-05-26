@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "8094df78cfa5498d96e13ef817814532",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_8335a659d15649819209ce6db2df079d",
     "parent": "frmOverlayiOS",
     "pf": "frmOverlayiOS",
     "wType": "Button"

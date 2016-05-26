@@ -1,0 +1,23 @@
+{
+    "AS_Form_bf51302330cb42f89ce93e62dcf7f78b": {
+        "id": "AS_Form_bf51302330cb42f89ce93e62dcf7f78b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScaleFactor",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3b89101662ab44ab9a7a8255500ef88c"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__cfaba394495a46dd9c01ce3314c5d4de",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmScaleFactor.destroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

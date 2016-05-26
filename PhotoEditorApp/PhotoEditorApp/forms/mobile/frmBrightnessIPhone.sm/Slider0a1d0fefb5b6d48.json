@@ -68,6 +68,7 @@
     "leftskin": "s8f9a7b33227462580bf48dc1fd0d768",
     "name": "kony.ui.Slider",
     "noofsteps": 9,
+    "onslide": "AS_Slider_dce3cf58f436431da0bda692cb670574",
     "osPlatform": "iphone",
     "osVersion": "iOS7",
     "parent": "frmBrightnessIPhone",

@@ -49,6 +49,7 @@
     "isvisible": true,
     "kuid": "d8cb6f6988424fef84c72d022ea6e831",
     "name": "kony.ui.Image2",
+    "ontouchend": "AS_Image_cfde773448e34a7ab52a4e80ae8cc962",
     "parent": "FlexContainer035b43882b4c047",
     "pf": "frmblurIphone",
     "srcType": 1,

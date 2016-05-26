@@ -69,6 +69,7 @@
     "leftskin": "sbc10a8312694bd58e43b75e7d491be3",
     "name": "kony.ui.Slider",
     "noofsteps": 90,
+    "onselection": "AS_Slider_6e333695689d45928c82415c79e28f7a",
     "osPlatform": "iphone",
     "osVersion": "iOS7",
     "parent": "frmCropPreview",

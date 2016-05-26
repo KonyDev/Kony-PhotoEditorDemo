@@ -115,6 +115,7 @@
         ]
     ],
     "name": "kony.ui.ListBox",
+    "onselection": "AS_ListBox_fa1690f26a70432aaf9a74b1e3bc2313",
     "paddinginpixel": false,
     "parent": "FcVideoQuality",
     "pf": "frmVideo",

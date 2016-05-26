@@ -114,6 +114,7 @@
     "menuposition": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
+    "onhide": "AS_Form_d40e919005e34ca78ca90b836e98d30d",
     "paddinginpixel": false,
     "pagingenabled": false,
     "platform": "iphone",

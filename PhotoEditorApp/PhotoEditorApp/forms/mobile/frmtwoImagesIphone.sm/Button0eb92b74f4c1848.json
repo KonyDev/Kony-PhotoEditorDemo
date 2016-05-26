@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "9f94de20d3e3493a8f66cc6201cb9c0d",
     "name": "kony.ui.Button",
+    "ontouchend": "AS_Button_122d7dfcd70c429faaad80898db2030d",
     "parent": "FlexContainer0344ae25ce9564f",
     "pf": "frmtwoImagesIphone",
     "wType": "Button",

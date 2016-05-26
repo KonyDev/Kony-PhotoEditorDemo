@@ -81,6 +81,7 @@
     "margininpixel": false,
     "name": "kony.ui.Slider",
     "noofsteps": 100,
+    "onselection": "AS_Slider_d913ff84ec194a3b8e705a278bf056e2",
     "osPlatform": "iphone",
     "osVersion": "iOS7",
     "paddinginpixel": false,

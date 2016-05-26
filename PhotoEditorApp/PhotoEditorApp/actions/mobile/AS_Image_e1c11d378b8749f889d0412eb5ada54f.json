@@ -1,0 +1,29 @@
+{
+    "AS_Image_e1c11d378b8749f889d0412eb5ada54f": {
+        "id": "AS_Image_e1c11d378b8749f889d0412eb5ada54f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet126858492922507"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__ee14cbfe305a4e459947aa23b89e208e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frm2.Flexscroll2.isVisible==false){\nfrm2.Flexscroll2.isVisible=true;\n}else{\nfrm2.Flexscroll2.isVisible=false;\n}\nfrm2.Flexscroll2.forceLayout();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

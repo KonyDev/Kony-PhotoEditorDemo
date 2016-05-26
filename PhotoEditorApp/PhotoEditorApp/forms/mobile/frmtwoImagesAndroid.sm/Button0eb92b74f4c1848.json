@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "71473220dfe644dfaf409ad919913b0b",
     "name": "kony.ui.Button",
+    "ontouchend": "AS_Button_d8fd4bd60ae84e1c89279968333bf57c",
     "parent": "FlexContainer0344ae25ce9564f",
     "pf": "frmtwoImagesAndroid",
     "wType": "Button",

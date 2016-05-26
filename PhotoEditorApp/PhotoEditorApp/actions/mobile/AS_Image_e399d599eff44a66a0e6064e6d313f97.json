@@ -1,0 +1,29 @@
+{
+    "AS_Image_e399d599eff44a66a0e6064e6d313f97": {
+        "id": "AS_Image_e399d599eff44a66a0e6064e6d313f97",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmtwoImagesIphone",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e3beb9c37ebd4665b17204fe78b784f2"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__59b70213beb54e7c82050ef1d164e7a0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frm2.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

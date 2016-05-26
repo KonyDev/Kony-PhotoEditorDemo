@@ -99,6 +99,7 @@
     "margininpixel": false,
     "name": "kony.ui.Camera",
     "nativeUserInterface": false,
+    "oncapture": "AS_Camera_33ca21e118554a35bf53e8e1c2c5f190",
     "overlayConfig": {
         "overlayForm": "frmOverlayIOS2",
         "startVideoButtonSkin": "s1d993518a4f4cf489b41eb9481d18a6",

@@ -1,0 +1,23 @@
+{
+    "AS_Button_543c70aeeb764c0a88e2f97aaf24ed8b": {
+        "id": "AS_Button_543c70aeeb764c0a88e2f97aaf24ed8b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOverlayIOS2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "551dc6a3d7434ef8b2229af56e11b16d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5066a2543ec44717a4b13064ec39600c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "camera_captureSource_Toggle2();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

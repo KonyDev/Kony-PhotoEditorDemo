@@ -80,7 +80,7 @@
     "kuid": "1cf3b6e998c541249f5a6d2212fa2e01",
     "name": "kony.ui.Camera",
     "nativeUserInterface": false,
-    "oncapture": null,
+    "oncapture": "AS_Camera_3056d278d67c478aaba9552d05907cc2",
     "overlayConfig": {
         "overlayForm": "frmOverlayiOS",
         "startVideoButtonText": "",

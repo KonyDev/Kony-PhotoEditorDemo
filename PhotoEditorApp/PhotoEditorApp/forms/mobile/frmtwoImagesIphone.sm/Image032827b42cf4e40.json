@@ -38,6 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmtwoImagesIphone",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
@@ -49,6 +50,7 @@
     "isvisible": true,
     "kuid": "c2123507f3d24959842f54e39e78d069",
     "name": "kony.ui.Image2",
+    "ontouchend": "AS_Image_e399d599eff44a66a0e6064e6d313f97",
     "parent": "FlexContainer0344ae25ce9564f",
     "pf": "frmtwoImagesIphone",
     "srcType": 1,

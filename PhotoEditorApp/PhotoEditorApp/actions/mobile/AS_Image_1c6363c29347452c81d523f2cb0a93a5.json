@@ -1,0 +1,35 @@
+{
+    "AS_Image_1c6363c29347452c81d523f2cb0a93a5": {
+        "id": "AS_Image_1c6363c29347452c81d523f2cb0a93a5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmeffectsAndroid",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9e9953a764914e0bb21860153a53bf1d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__601659653d4a49129b6fe21e6229faf2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setColorClampAndroid();",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET__0e6c2647be34410eb90070b9fb6990c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applyFilterttoImage(filter4);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

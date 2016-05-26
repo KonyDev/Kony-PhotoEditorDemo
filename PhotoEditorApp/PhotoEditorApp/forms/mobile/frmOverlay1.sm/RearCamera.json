@@ -101,6 +101,7 @@
     "kuid": "p2kwiet1379155974111",
     "margininpixel": false,
     "name": "kony.ui.Camera",
+    "oncapture": "AS_Camera_5885d6edcda442ecb0226586d7900b0b",
     "overlayConfig": {
         "overlayForm": "frmOverlay",
         "startVideoButtonText": "",

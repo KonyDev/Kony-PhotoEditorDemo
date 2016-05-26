@@ -1,0 +1,23 @@
+{
+    "AS_Button_27f0d060e9594ccdb82b4f4eb6a73110": {
+        "id": "AS_Button_27f0d060e9594ccdb82b4f4eb6a73110",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditTool",
+            "type": "templates",
+            "platform": "",
+            "KUID": "f997635e5241440faaf463677091ea95"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__ff4113d49deb47c8a41e3e1e72521c89",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "NavigateScaleForm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

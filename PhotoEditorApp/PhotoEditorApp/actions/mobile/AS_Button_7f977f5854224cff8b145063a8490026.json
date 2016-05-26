@@ -1,0 +1,23 @@
+{
+    "AS_Button_7f977f5854224cff8b145063a8490026": {
+        "id": "AS_Button_7f977f5854224cff8b145063a8490026",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOverlay1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet1379155974113"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__dea62d738e964d838a608566137ebae4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmOverlay.FrontCamera.takePicture();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

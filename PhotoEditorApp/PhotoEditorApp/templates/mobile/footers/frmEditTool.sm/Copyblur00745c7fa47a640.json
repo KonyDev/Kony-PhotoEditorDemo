@@ -46,10 +46,10 @@
             "showProgressIndicator": false
         }
     },
-    "isSegmentChild": false,
     "isvisible": true,
     "kuid": "7b468c7582064a278981f445236677e1",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_c3c0d9457d8a46a4b849f4947bdc3e81",
     "parent": "FlexScrollContainer02fc69c09b4074e",
     "pf": "frmEditTool",
     "wType": "Button"

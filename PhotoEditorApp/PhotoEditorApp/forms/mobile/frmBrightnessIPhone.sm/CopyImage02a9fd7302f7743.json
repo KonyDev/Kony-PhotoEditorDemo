@@ -50,6 +50,7 @@
     "isvisible": true,
     "kuid": "d4325c5dfed94805afb32f0c7cf9c525",
     "name": "kony.ui.Image2",
+    "ontouchend": "AS_Image_d65918abf75c4020aada5884acaaf60a",
     "parent": "FlexContainer055b9b6f66e5348",
     "pf": "frmBrightnessIPhone",
     "srcType": 1,

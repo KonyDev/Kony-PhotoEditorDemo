@@ -1,0 +1,29 @@
+{
+    "AS_Image_0fa3b65e6da44e6098674107bf937e93": {
+        "id": "AS_Image_0fa3b65e6da44e6098674107bf937e93",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmeffectsAndroid",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9e9953a764914e0bb21860153a53bf1d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d84bd5192a6b4b909db773b748c2137a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applyFilterttoImage(filter1);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

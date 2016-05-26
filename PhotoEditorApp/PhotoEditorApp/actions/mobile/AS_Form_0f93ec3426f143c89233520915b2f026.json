@@ -1,0 +1,23 @@
+{
+    "AS_Form_0f93ec3426f143c89233520915b2f026": {
+        "id": "AS_Form_0f93ec3426f143c89233520915b2f026",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmeffectsAndroid",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9e9953a764914e0bb21860153a53bf1d"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__fad3684fe7dc4309bd7d5f366a782801",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nfilter2.clearFilterData();\nfilter3.clearFilterData();\nfilter4.clearFilterData();\nfrmeffectsAndroid.destroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

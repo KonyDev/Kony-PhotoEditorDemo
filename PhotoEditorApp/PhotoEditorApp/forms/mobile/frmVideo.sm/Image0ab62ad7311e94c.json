@@ -50,6 +50,7 @@
     "isvisible": true,
     "kuid": "e8c0f3d86c8a4271a49e3c55805f9991",
     "name": "kony.ui.Image2",
+    "ontouchend": "AS_Image_e1c11d378b8749f889d0412eb5ada54f",
     "parent": "FlexContainer0f9ca570a05a94f",
     "pf": "frmVideo",
     "srcType": 1,

@@ -281,6 +281,7 @@
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
+    "onhide": "AS_Form_ebd741c1e5b64f4aafb511f0fcf057cd",
     "paddinginpixel": false,
     "platform": "android",
     "prevDevice": "iPhone6",

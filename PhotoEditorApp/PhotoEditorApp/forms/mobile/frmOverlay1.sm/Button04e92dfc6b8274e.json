@@ -51,6 +51,7 @@
     "isvisible": true,
     "kuid": "ad4508e068c14c5f9e486c36e9cc26d1",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_7f977f5854224cff8b145063a8490026",
     "parent": "FlexContainer039310b3f463945",
     "pf": "frmOverlay1",
     "wType": "Button"

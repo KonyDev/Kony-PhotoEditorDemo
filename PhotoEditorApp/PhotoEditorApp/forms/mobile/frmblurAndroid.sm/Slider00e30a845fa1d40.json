@@ -69,6 +69,7 @@
     "leftskin": "s10239c715ce48319f9080f974766f08",
     "name": "kony.ui.Slider",
     "noofsteps": 9,
+    "onslide": "AS_Slider_26127c48ebe947cfb2ceb6a76b930a72",
     "osPlatform": "android",
     "osVersion": "iOS7",
     "parent": "FlexScrollContainer0bca70123445b43",

@@ -51,6 +51,7 @@
     "isvisible": true,
     "kuid": "aee70901342d49c1ad4aff5c810dfdec",
     "name": "kony.ui.Image2",
+    "ontouchend": "AS_Image_aa7d1906c2174c8ab9f35465c957b5b1",
     "parent": "FlexContainer021184713ccf344",
     "pf": "frmeffectsAndroid",
     "srcType": 1,

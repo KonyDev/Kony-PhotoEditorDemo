@@ -108,6 +108,7 @@
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "iphone",
+    "postshow": "AS_Form_2782effcfe0a4f4d8605dab36e1ba7a6",
     "prevDevice": "GalaxyS4",
     "prevPlatform": "android",
     "retainscrollposition": false,

@@ -283,6 +283,7 @@
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
+    "onhide": "AS_Form_f66499c5e6ac45ddac95e39f5719894f",
     "paddinginpixel": false,
     "platform": "iphone",
     "prevDevice": "iPhone6",
