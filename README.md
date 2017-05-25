@@ -5,8 +5,8 @@ Application to showcase the image manipulation APIs of Kony Visualizer.
 
 1. Download the project zip file.
 2. Unzip the project to any folder
-3. Launch Kony Visualizer Enterprise version 7.0.
-4. Import the project by selecting the PhotoEditorApp folder.
+3. Launch Kony Visualizer Enterprise version 7.3 .
+4. Import the project by selecting the PhotoEditorApp.zip 
 5. Build and run the app.
 
 
@@ -15,7 +15,7 @@ Application to showcase the image manipulation APIs of Kony Visualizer.
 1. Download the project zip file.
 2. Unzip the project to any folder.
 3. Launch Kony Visualizer
-4. Import it into Kony Visualizer Starter Edition 7.0 or above by selecting the PhotoEditorApp folder.
+4. Import it into Kony Visualizer Starter Edition 7.3 or above by selecting the PhotoEditorApp.zip .
 5. Run the app.
 6. Launch in Functional Preview through Local account or Cloud.
 

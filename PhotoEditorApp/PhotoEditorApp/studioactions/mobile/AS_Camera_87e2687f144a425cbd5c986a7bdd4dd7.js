@@ -1,1 +1,0 @@
-function AS_Camera_87e2687f144a425cbd5c986a7bdd4dd7(eventobject) {}
